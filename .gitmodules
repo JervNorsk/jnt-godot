@@ -1,3 +1,6 @@
 [submodule "modules/godot-engine"]
 	path = modules/godot-engine
 	url = https://github.com/godotengine/godot.git
+[submodule "modules/godot-javascript"]
+	path = modules/godot-javascript
+	url = https://github.com/godotjs/javascript.git
